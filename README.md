@@ -1,5 +1,12 @@
 <h1 align='center'>Passos para rodar a aplicação:</h1>
 
+Arquivos + modificados:
+
+* ConnectionFactory.java
+* ContaDAO.java
+
+<br>
+
 <p>⚠️ Importante!</p>
 
 É necessário ter instalado o MYSQL e realizar os seguintes comandos no terminal:
